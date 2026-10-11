@@ -1,0 +1,5 @@
+name,department,salary,city
+Mona,Sales,10000,Cairo
+Ali,IT,15000,Giza
+Sara,Sales,,Cairo
+Omar,IT,18000,Giza
